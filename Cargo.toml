@@ -1,0 +1,20 @@
+[package]
+name = "async-osc"
+version = "1.0.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Frando/async-osc"
+documentation = "https://docs.rs/async-osc"
+description = "Async library for the Open Sound Control (OSC) protocol"
+readme = "README.md"
+edition = "2018"
+keywords = []
+categories = []
+authors = [
+    "Franz Heinzmann <franz@arso.xyz>"
+]
+
+[features]
+
+[dependencies]
+
+[dev-dependencies]
