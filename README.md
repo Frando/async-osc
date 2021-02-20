@@ -41,7 +41,7 @@
   </h3>
 </div>
 
-This crate implements an async interface on the [OSC 1.0](https://web.archive.org/web/20201211193930/http://opensoundcontrol.org/spec-1_0) protocol
+This crate implements an async interface on the [OSC 1.0](https://web.archive.org/web/20201211193930/http://opensoundcontrol.org/spec-1_0) protocol. It uses [`async-std`](https://docs.rs/async-std) for async networking and [`rosc`](https://docs.rs/rosc) for OSC encoding and decoding.
 
 ## Installation
 ```sh
