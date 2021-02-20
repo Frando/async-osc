@@ -1,7 +1,7 @@
 <h1 align="center">async-osc</h1>
 <div align="center">
   <strong>
-    Async library for the Open Sound Control (OSC) protocol
+    Async Rust library for the Open Sound Control (OSC) protocol
   </strong>
 </div>
 
@@ -40,6 +40,8 @@
     </a>
   </h3>
 </div>
+
+This crate implements an async interface on the [OSC 1.0](https://web.archive.org/web/20201211193930/http://opensoundcontrol.org/spec-1_0) protocol
 
 ## Installation
 ```sh
